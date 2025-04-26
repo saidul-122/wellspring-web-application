@@ -29,7 +29,7 @@ Prerequisites
 Installation
 
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/saidul-122/wellspring-web-application/
 
 # Navigate to project directory
 cd wellspring
@@ -40,11 +40,7 @@ npm install
 # Start development server
 npm run dev
 
-Deployment
-
-Deploy easily through Lovable by clicking the "Publish" button in the project interface.
-Contributing
-
+**Contributing**
 We welcome contributions! Please refer to our contribution guidelines for more information.
 License
 This project is licensed under the MIT License.
