@@ -20,27 +20,3 @@ Technology Stack
     Routing: React Router
     Language: TypeScript
 
-Getting Started
-Prerequisites
-
-    Node.js (v18+)
-    npm or Bun
-
-Installation
-
-# Clone the repository
-git clone https://github.com/saidul-122/wellspring-web-application/
-
-# Navigate to project directory
-cd wellspring
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-**Contributing**
-We welcome contributions! Please refer to our contribution guidelines for more information.
-License
-This project is licensed under the MIT License.
